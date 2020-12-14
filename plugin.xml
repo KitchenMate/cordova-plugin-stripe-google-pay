@@ -5,13 +5,13 @@
   id="cordova-plugin-stripe-google-pay"
   version="0.0.1"
   >
-    <name>cordova-plugin-stripe-google-pay</name>
+    <name>cordova-plugin-stripe-google-pay-2</name>
     <description>Cordova plugin for Stripe - Google Pay integration</description>
     <license>MIT</license>
     <keywords>cordova,stripe,google,pay</keywords>
     <author>Asanga Dev</author>
-    <repo>https://github.com/asangadev/cordova-plugin-stripe-google-pay.git</repo>
-    <issue>https://github.com/asangadev/cordova-plugin-stripe-google-pay/issues</issue>
+    <repo>https://github.com/KitchenMate/cordova-plugin-stripe-google-pay.git</repo>
+    <issue>https://github.com/KitchenMate/cordova-plugin-stripe-google-pay/issues</issue>
     <js-module src="www/stripe-google-pay.js" name="sgap">
         <clobbers target="sgap" />
     </js-module>
